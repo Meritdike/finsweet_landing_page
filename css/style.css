@@ -444,6 +444,10 @@ body {
     align-items: center;
 }
 
+.what-we-offer-options p {
+    font-weight: 600;
+}
+
 .what-we-offer-options-wheel {
     width: 250px;
     height: 150px;
@@ -500,8 +504,19 @@ body {
 }
 
 .learn-about-services {
-    padding: 42px;
-    text-align: end;
+   display: flex;
+   justify-content: flex-end;
+   align-items: center;
+   padding-right: 42px;
+   padding-top: 30px;
+}
+
+.learn-about-services a {
+    font-weight: 600;
+}
+
+.learn-about-services img {
+    margin-left: 16px;
 }
 
 .car-tools-image {
