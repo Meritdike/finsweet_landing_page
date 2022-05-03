@@ -1264,7 +1264,11 @@ footer {
     }
 
     .contactUs-box h2 { 
-        margin-bottom: 10px;
+        margin-bottom: 7px;
+    }
+
+    .get-quote input[type="submit"] {
+        margin-top: 20px;
     }
 }
 
@@ -1278,7 +1282,11 @@ footer {
     }
 
     .contactUs-box h2 { 
-        margin-bottom: 8px;
+        margin-bottom: 5px;
+    }
+
+    .get-quote input[type="submit"] {
+        margin-top: 16px;
     }
 }
 
@@ -1289,5 +1297,13 @@ footer {
 
     .contactUs-box button {
         padding: 3px 10px;
+    }
+
+    .contactUs-box h2 { 
+        margin-bottom: 3px;
+    }
+
+    .get-quote input[type="submit"] {
+        margin-top: 10px;
     }
 }
