@@ -101,6 +101,7 @@ body {
     margin-bottom: 40px;
     border-radius: 12px;
     border: none;
+    text-decoration: none;
 }
 
 .weAreOpen {
@@ -291,6 +292,11 @@ body {
     align-items: center;
 }
 
+.more-aboutUs a {
+    text-decoration: none;
+    color: #000;
+}
+
 .more-aboutUs img {
     padding-left: 16px;
 }
@@ -315,9 +321,11 @@ body {
     padding: 16px 40px;
     background-color: #ff6433;
     color: #fff;
+    margin-top: 40px;
+    margin-bottom: 40px;
     border-radius: 12px;
-    border: 2px solid #ff6433;
-    margin-top: 32px;
+    border: none;
+    display: inline-block;
 }
 
 .third-section {
@@ -352,6 +360,7 @@ body {
     border-radius: 12px;
     border: none;
     display: inline-block;
+    text-decoration: none;
 }
 
 .third-section-right {
@@ -514,6 +523,8 @@ body {
 
 .learn-about-services a {
     font-weight: 600;
+    text-decoration: none;
+    color: #000;
 }
 
 .learn-about-services img {
@@ -549,13 +560,15 @@ body {
     padding-bottom: 36px;
 }
 
-.contactUs-box button {
+.contactUs-box a {
     padding: 16px 40px;
     background-color: #000;
     color: #fff;
     border: 1px solid #000;
     border-radius: 12px;
     margin-left: 36px;
+    text-decoration: none;
+    display: inline-block;
 }
 
 .service-rating {
@@ -657,7 +670,7 @@ body {
 
 .swipe-arrows {
     display: flex;
-    justify-content: end;
+    justify-content: flex-end;
     align-items: center;
     margin-top: 20px;
 }
@@ -1011,6 +1024,7 @@ footer {
 
     .more-aboutUs a {
         font-size: 14px;
+        text-decoration: none;
     }
 
     .more-aboutUs img {
@@ -1112,7 +1126,7 @@ footer {
         margin-bottom: 12px;
     }
 
-    .contactUs-box button {
+    .contactUs-box a {
         margin-left: 0px;
         padding: 8px 20px;
         font-size: 8px;
@@ -1166,9 +1180,9 @@ footer {
         line-height: 18px;
     }
 
-    .swipe-arrows {
+    /* .swipe-arrows {
         justify-content: flex-end;
-    }
+    } */
 
     .lines img, .swipe-arrows .black{
         display: none;
@@ -1272,7 +1286,7 @@ footer {
         margin-left: 150px;
     }
 
-    .contactUs-box button {
+    .contactUs-box a {
         padding: 6px 15px;
     }
 
@@ -1290,7 +1304,7 @@ footer {
         margin-left: 120px;
     }
 
-    .contactUs-box button {
+    .contactUs-box a {
         padding: 4px 13px;
     }
 
@@ -1308,7 +1322,7 @@ footer {
         margin-left: 90px;
     }
 
-    .contactUs-box button {
+    .contactUs-box a {
         padding: 3px 10px;
     }
 
