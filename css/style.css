@@ -1178,13 +1178,21 @@ footer {
         font-size: 26px
     }
 
+    .question {
+        margin-bottom: 6px;
+        width: 100%;
+        padding: 15px;
+    }
+
     .question .heading h4 {
-        font-size: 15px
+        font-size: 12px
     }
 
     .question p {
         padding-right: 0px;
         font-size: 10px;
+        width: 90%;
+        padding-top: 5px;
     }
 
     #last-section {
