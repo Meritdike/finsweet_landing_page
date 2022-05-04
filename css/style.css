@@ -561,11 +561,11 @@ body {
 }
 
 .contactUs-box a {
-    padding: 16px 40px;
+    padding: 14px 40px;
     background-color: #000;
     color: #fff;
     border: 1px solid #000;
-    border-radius: 12px;
+    border-radius: 10px;
     margin-left: 36px;
     text-decoration: none;
     display: inline-block;
