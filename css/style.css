@@ -1167,7 +1167,7 @@ footer {
     }
 
     .swipe-arrows {
-        align-items: flex-end;
+        justify-content: flex-end;
     }
 
     .lines img, .swipe-arrows .black{
