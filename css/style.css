@@ -1154,6 +1154,7 @@ footer {
     .comment {
         width: 100%;
         margin-bottom: 8px;
+        padding: 24px;
     }
 
     .comments .top-section {
@@ -1163,6 +1164,10 @@ footer {
     .comment p {
         font-size: 12px;
         line-height: 18px;
+    }
+
+    .swipe-arrows {
+        align-items: flex-end;
     }
 
     .lines img, .swipe-arrows .black{
