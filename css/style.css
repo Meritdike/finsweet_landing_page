@@ -16,6 +16,7 @@ body {
     margin: 0 auto;
 }
 
+/* HERO HEADER */
 .main-header {
     padding: 30px 0px;
     display: flex;
@@ -75,6 +76,7 @@ body {
     color: #000;
 }
 
+/* SCREEN ONE */
 .first-section {
     display: flex;
     justify-content: space-between;
@@ -205,6 +207,7 @@ body {
     color: #939191;
 }
 
+/* SCREEN TWO */
 #second-section {
     background-color: #E2E6E9;
     margin: 50px 0px;
@@ -328,6 +331,7 @@ body {
     display: inline-block;
 }
 
+/* SCREEN THREE */
 .third-section {
     display: flex;
     justify-content: space-between;
@@ -419,6 +423,7 @@ body {
     margin-top: 12px;
 }
 
+/* SCREEN FOUR (PART 1) */
 #fourth-section {
     background-color: #f2f2f2;
     padding-top: 100px;
@@ -500,6 +505,7 @@ body {
     margin-left: 16px;
 }
 
+/* SCREEN FOUR (PART 2) */
 .car-tools-image {
     margin-top: 80px;
     margin-bottom: 30px;
@@ -574,6 +580,7 @@ body {
     padding-top: 1px;
 }
 
+/* SCREEN FIVE */
 #fifth-section {
     background-color: #fafafa;
     padding-top: 100px;
@@ -599,6 +606,7 @@ body {
     width: 20%;
 }
 
+/* SCREEN SIX */
 #sixth-section {
     background-color: #f2f2f2;
     min-height: 100vh;
@@ -697,6 +705,7 @@ body {
     cursor: pointer;
 }
 
+/* SCREEN SEVEN */
 #seventh-section {
     background-color: #E2E6E9;
     padding: 80px 0px;
@@ -749,6 +758,7 @@ body {
     font-size: 14px;
 }
 
+/* SCRREN EIGHT */
 #last-section {
     background-color: #1e1b1b;
     opacity: 0.98;
@@ -794,6 +804,7 @@ body {
     padding-bottom: 30px;
 }
 
+/* TAIL FOOTER */
 footer {
     background-color: #000;
     color: #fff;
@@ -835,6 +846,7 @@ footer {
     font-size: 12px;
 }
 
+/* SMALLER LAPTOP SCREEN SIZE */
 @media (max-width: 1025px) {
     .rating {
         margin-left: 140px;
@@ -858,6 +870,7 @@ footer {
     }
 }
 
+/* TABLET SCREEN SIZES */
 @media (max-width: 769px) {
     .container {
         width: 90%;
@@ -1157,7 +1170,6 @@ footer {
     }
 
 }
-
 @media (max-width: 730px) {
     .rating {
         margin-left: 130px;
@@ -1208,6 +1220,7 @@ footer {
     }
 }
 
+/* MOBILE SCREEN SIZES */
 @media(max-width: 426px) {
     .container {
         width: 80%;
@@ -1677,7 +1690,6 @@ footer {
         display: block;
     }
 }
-
 @media(max-width: 400px) {
     .rating {
         margin-left: 150px;
@@ -1695,7 +1707,6 @@ footer {
         margin-top: 20px;
     }
 }
-
 @media (max-width: 360px) {
     .rating {
         margin-left: 120px;
@@ -1713,7 +1724,6 @@ footer {
         margin-top: 16px;
     }
 }
-
 @media (max-width: 330px) {
     .rating {
         margin-left: 90px;

@@ -16,6 +16,7 @@ body {
     margin: 0 auto;
 }
 
+/* HERO HEADER */
 .main-header {
     padding: 30px 0px;
     display: flex;
@@ -75,7 +76,7 @@ body {
     color: #000;
 }
 
-/* screen one */
+/* SCREEN ONE */
 .first-section {
     min-height: 80vh;
     padding: 30px 50px;
@@ -124,7 +125,7 @@ body {
     display: inline-block;
 }
 
-/* second screen */
+/* SCREEN TWO */
 #second-section {
     background-color: #F5F5F5;
     padding: 80px 0px;
@@ -190,6 +191,10 @@ body {
     height: 100%;
 }
 
+.service-we-offer-options, .service-we-offer-options-auto-diagnostics, .service-we-offer-options-bottom {
+    font-weight: 600;
+}
+
 .service-we-offer-options, .service-we-offer-options-bottom {
     background-color: #fff;
     width: 48%;
@@ -226,10 +231,10 @@ body {
     margin-bottom: 20px;
 }
 
-/* third screen */
+/* SCREEN THREE */
 #third-section {
     padding-top: 60px;
-    padding-bottom: 70px;
+    padding-bottom: 80px;
     min-height: 100vh;
 }
 
@@ -345,6 +350,7 @@ body {
     display: inline-block;
 }
 
+/* SCREEN FOUR */
 #last-section {
     background-color: #1e1b1b;
     opacity: 0.98;
@@ -390,6 +396,7 @@ body {
     padding-bottom: 30px;
 }
 
+/* TAIL FOOTER */
 footer {
     background-color: #000;
     color: #fff;
