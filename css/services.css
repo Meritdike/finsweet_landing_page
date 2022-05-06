@@ -717,7 +717,16 @@ footer {
     .third-section-top-right {
         order: 1;
         width: 100%;
-        height: 80vh;
+        height: 100vh;
+        flex-direction: column;
+    }
+
+    .black-car, .colored-car {
+        width: 100%;
+    }
+
+    .colored-car {
+        margin-top: 10px;
     }
 
     .third-section-bottom {
@@ -727,8 +736,16 @@ footer {
 
     .third-section-bottom-left {
         width: 100%;
-        height: 80vh;
+        height: 100vh;
+        flex-direction: column;
         padding-bottom: 30px;
+    }
+
+    .car-tire, .car-bonnet {
+        width: 100%;
+    }
+    .car-bonnet {
+        margin-top: 10px;
     }
 
     .third-section-bottom-right {
