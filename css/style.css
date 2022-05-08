@@ -1444,7 +1444,7 @@ footer {
     }
 
     .get-quote button {
-        font-weight: none;
+        font-weight: 300;
         font-size: 13px;
         padding: 14px 32px;
     }
@@ -1537,7 +1537,7 @@ footer {
         flex-direction: column;
         text-align: center;
         padding-top: 10px;
-        padding-bottom: 20px;
+        padding-bottom: 26px;
     }
 
     .service-rating-samples {
