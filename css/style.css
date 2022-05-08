@@ -1444,8 +1444,9 @@ footer {
     }
 
     .get-quote button {
+        font-weight: none;
         font-size: 13px;
-        padding: 14px 34px;
+        padding: 14px 32px;
     }
 
     .third-section {
