@@ -1444,9 +1444,9 @@ footer {
     }
 
     .get-quote button {
-        font-weight: 300;
+        font-weight: 400;
         font-size: 13px;
-        padding: 14px 32px;
+        padding: 14px 34px;
     }
 
     .third-section {
@@ -1466,7 +1466,7 @@ footer {
 
     .learn-more-btn a {
         font-size: 13px;
-        padding: 14px 40px;
+        padding: 14px 44px;
     }
 
     .third-section-right {
@@ -1537,7 +1537,7 @@ footer {
         flex-direction: column;
         text-align: center;
         padding-top: 10px;
-        padding-bottom: 26px;
+        padding-bottom: 28px;
     }
 
     .service-rating-samples {
