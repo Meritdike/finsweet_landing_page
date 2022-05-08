@@ -656,6 +656,7 @@ footer {
     .text-section a {
         font-size: 13px;
         margin-bottom: 30px;
+        padding: 14px 34px;
     }
 
     .second-section {
@@ -764,6 +765,7 @@ footer {
 
     .third-section-bottom-right a {
         font-size: 13px;
+        padding: 14px 34px;
     }
 
     #last-section {

@@ -320,7 +320,7 @@ body {
     border: 2px solid #E2E6E9;
 }
 
-.get-quote input[type="submit"] {
+.get-quote button {
     padding: 16px 40px;
     background-color: #ff6433;
     color: #fff;
@@ -355,7 +355,7 @@ body {
     font-size: 14px;
 }
 
-.learn-more-btn a{
+.learn-more-btn a {
     padding: 16px 40px;
     background-color: #ff6433;
     color: #fff;
@@ -1078,7 +1078,7 @@ footer {
     }
 
     .contactUs-box a {
-        font-size: 14px;
+        font-size: 13px;
     }
 
     #fifth-section {
@@ -1282,6 +1282,8 @@ footer {
 
     .first-section-left a {
         margin-bottom: 30px;
+        font-size: 13px;
+        padding: 14px 34px;
     }
 
     .first-section-right {
@@ -1441,6 +1443,11 @@ footer {
         padding: 14px 24px;
     }
 
+    .get-quote button {
+        font-size: 13px;
+        padding: 14px 34px;
+    }
+
     .third-section {
         flex-direction: column;
         padding: 0px;
@@ -1455,6 +1462,12 @@ footer {
         padding-top: 0px;
         font-size: 30px;
     }
+
+    .learn-more-btn a {
+        font-size: 13px;
+        padding: 14px 40px;
+    }
+
     .third-section-right {
         width: 100%;
         padding-right: 0px;
@@ -1476,6 +1489,7 @@ footer {
 
     #fourth-section {
         padding-top: 50px;
+        padding-bottom: 0px;
     }
 
     .fourth-section-heading p {
@@ -1500,6 +1514,8 @@ footer {
 
     .learn-about-services a {
         font-size: 14px;
+        font-size: 13px;
+        padding: 14px 34px;
     }
 
     .learn-about-services img {
@@ -1519,6 +1535,8 @@ footer {
     .service-rating {
         flex-direction: column;
         text-align: center;
+        padding-top: 10px;
+        padding-bottom: 20px;
     }
 
     .service-rating-samples {
